@@ -17,7 +17,6 @@ With a builder’s mindset, deep attention to risk, and a relentless focus on di
 - 🌐 Building full-stack dApps with deep frontend-to-smart-contract integration
 
 
-> ⚡ Let's connect or collaborate!  
 ### 🔗 **Professional Profiles**  
 | Platform       | Link                                                                 |
 |----------------|----------------------------------------------------------------------|
