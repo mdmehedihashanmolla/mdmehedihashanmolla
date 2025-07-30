@@ -1,21 +1,26 @@
 ## 👋 Hi, I’m Mehedi — Web3 Security Researcher & Builder
 
-I'm a Web3 smart contract security researcher with a background in full-stack development and real-world product building.
+I’m a Web3 smart contract security researcher with a background in full-stack product development and developer education.
 
-Previously, I founded **Learn2Leads**, an educational platform that I built and launched end-to-end — from backend systems to frontend user experience. I also co-founded **EEA Kolkata**, where I contributed as a technical trainer and product collaborator.
+Previously, I **founded Learn2Leads**, an edtech startup where I built and launched the entire platform — from backend infrastructure to user experience. While the company is now closed, it gave me hands-on experience in product thinking, system design, and fast iteration.
 
-These experiences shaped how I approach smart contract security:  
-With a builder’s mindset, deep attention to risk, and a relentless focus on discovering critical vulnerabilities *before they hit mainnet*.
+I also **co-founded EEA Kolkata**, contributing as a technical trainer and collaborator on developer-focused tools and resources.
 
-### 🛡️ Currently focusing on:
+These builder-first experiences now shape how I approach smart contract security:  
+With a product mindset, a focus on real-world risk, and a mission to catch critical vulnerabilities *before they reach mainnet*.
 
-- 🛡️ Writing competitive audit reports for real-world smart contracts  
-- 💥 Conducting vulnerability research with detailed PoCs and mitigation strategies  
-- 📊 Reproducing major Web3 hacks with in-depth technical breakdowns  
-- 🔧 Developing secure smart contracts and custom auditing tools  
-- 🧱 Designing protocol-level systems like vaults, lending platforms, and staking modules  
-- 🌐 Building full-stack dApps with deep frontend-to-smart-contract integration
+---
 
+### 🧠 Currently Focused On
+
+- 🛡️ Producing competitive audit reports for DeFi and protocol-level contracts  
+- 💥 Researching vulnerabilities with PoCs, root-cause analysis, and mitigation strategies  
+- 📊 Recreating high-profile Web3 exploits with full technical breakdowns  
+- 🔧 Writing secure smart contracts and building custom security tools  
+- 🧱 Engineering core DeFi systems — vaults, lending markets, staking modules  
+- 🌐 Developing full-stack dApps with seamless frontend-to-smart-contract integration
+
+---
 
 ### 🔗 **Professional Profiles**  
 | Platform       | Link                                                                 |
