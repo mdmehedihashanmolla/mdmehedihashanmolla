@@ -27,6 +27,6 @@ With a product mindset, a focus on real-world risk, and a mission to catch criti
 | Platform       | Link                                                                 |
 |----------------|----------------------------------------------------------------------|
 | 🐦 **Twitter**  | [@0xMehediSec](https://x.com/0xMehediSec)                           |
-| 💼 **LinkedIn** | MD Mehedi Hashan Molla *(Inactive)*  |
+| 💼 **LinkedIn** | MD Mehedi Hashan Molla *(Inactive)*                                 |
 | 📧 **Email**    | `mdmehedihashanmolla@gmail.com`                                     |
 | ✍️ **Blog**     | [Medium Articles](https://medium.com/@mdmehedihashanmolla)          |
