@@ -1,32 +1,42 @@
-## 👋 Hi, I’m Mehedi — Web3 Security Researcher & Builder
+# 👋 Hi, I'm Mehedi | Solidity Engineer & Smart Contract Security Researcher
 
-I’m a Web3 smart contract security researcher with a background in full-stack product development and developer education.
+I'm an EVM-focused Solidity engineer and smart contract security researcher interested in building secure smart contracts, analyzing DeFi protocols, and identifying vulnerabilities before they reach production.
 
-Previously, I **founded Learn2Leads**, an edtech startup where I built and launched the entire platform — from backend infrastructure to user experience. While the company is now closed, it gave me hands-on experience in product thinking, system design, and fast iteration.
+My work combines **Solidity development, competitive security audits, and hands-on vulnerability research**, with a focus on understanding protocol logic, validating findings, and explaining root causes.
 
-I also **co-founded EEA Kolkata**, contributing as a technical trainer and collaborator on developer-focused tools and resources.
+Previously, I founded Learn2Leads, an edtech startup where I built and launched the platform across backend infrastructure and user experience. I also contributed as a technical educator at EEA Kolkata, teaching programming and web development concepts.
 
-These builder-first experiences now shape how I approach smart contract security:  
-With a product mindset, a focus on real-world risk, and a mission to catch critical vulnerabilities *before they reach mainnet*.
-
----
-### web3-security-and-dev-portfolio : https://github.com/mdmehedihashanmolla/web3-security-and-dev-portfolio
-
-### 🧠 Currently Focused On
-
-- 🛡️ Producing competitive audit reports for DeFi and protocol-level contracts  
-- 💥 Researching vulnerabilities with PoCs, root-cause analysis, and mitigation strategies  
-- 📊 Recreating high-profile Web3 exploits with full technical breakdowns  
-- 🔧 Writing secure smart contracts and building custom security tools  
-- 🧱 Engineering core DeFi systems — vaults, lending markets, staking modules  
-- 🌐 Developing full-stack dApps with seamless frontend-to-smart-contract integration
+These experiences shaped my approach to smart contract engineering: understand how systems work, think through failure cases, and build with security in mind.
 
 ---
 
-### 🔗 **Professional Profiles**  
-| Platform       | Link                                                                 |
-|----------------|----------------------------------------------------------------------|
-| 🐦 **Twitter**  | [@0xMehediSec](https://x.com/0xMehediSec)                           |
-| 💼 **LinkedIn** | https://www.linkedin.com/in/0xmehedisec/                               |
-| 📧 **Email**    | `mdmehedihashanmolla@gmail.com`                                     |
-| ✍️ **Blog**     | [Medium Articles](https://medium.com/@mdmehedihashanmolla)          |
+## 🧠 Current Focus
+
+- **Solidity Engineering:** Building and testing EVM smart contracts, including escrow and crowdfunding systems.
+- **Smart Contract Security:** Reviewing protocol logic, identifying vulnerabilities, and validating findings with proof-of-concept tests.
+- **Competitive Audits:** Analyzing DeFi protocols and documenting root causes, impact, and mitigation strategies.
+- **EVM & DeFi Research:** Studying protocol architecture, attack surfaces, and real-world exploit patterns.
+
+## 🛠️ Technologies
+
+**Languages:** Solidity, Python  
+**Smart Contract Development:** Foundry, OpenZeppelin, EVM  
+**Security:** Manual code review, Foundry PoCs, Slither  
+**Backend & Infrastructure:** Django, Linux, Docker
+
+## 📂 Portfolio
+
+Explore my work in Solidity development and smart contract security:
+
+- [Competitive Audit Findings](https://github.com/mdmehedihashanmolla/Web3-Security-Portfolio)
+- [Decentralized Crowdfunding](https://github.com/mdmehedihashanmolla/Decentralized-Crowdfunding-)
+- [Agent Payment Escrow](https://github.com/mdmehedihashanmolla/agent-payment-escrow-)
+
+## 🔗 Professional Profiles
+
+| Platform | Link |
+|---|---|
+| **X** | [@0xMehediSec](https://x.com/0xMehediSec) |
+| **LinkedIn** | [linkedin.com/in/0xmehedisec](https://www.linkedin.com/in/0xmehedisec/) |
+| **Email** | [mdmehedihashanmolla@gmail.com](mailto:mdmehedihashanmolla@gmail.com) |
+| **Blog** | [Medium Articles](https://medium.com/@mdmehedihashanmolla) |
