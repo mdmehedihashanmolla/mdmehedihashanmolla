@@ -24,14 +24,6 @@ These experiences shaped my approach to smart contract engineering: understand h
 **Security:** Manual code review, Foundry PoCs, Slither  
 **Backend & Infrastructure:** Django, Linux, Docker
 
-## 📂 Portfolio
-
-Explore my work in Solidity development and smart contract security:
-
-- [Competitive Audit Findings](https://github.com/mdmehedihashanmolla/Web3-Security-Portfolio)
-- [Decentralized Crowdfunding](https://github.com/mdmehedihashanmolla/Decentralized-Crowdfunding-)
-- [Agent Payment Escrow](https://github.com/mdmehedihashanmolla/agent-payment-escrow-)
-
 ## 🔗 Professional Profiles
 
 | Platform | Link |
