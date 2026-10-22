@@ -19,7 +19,7 @@ These experiences shaped my approach to smart contract engineering: understand h
 
 ## 🛠️ Technologies
 
-**Languages:** Solidity, Python  
+**Languages:** Solidity, Python, JavaScript 
 **Smart Contract Development:** Foundry, OpenZeppelin, EVM  
 **Security:** Manual code review, Foundry PoCs, Slither  
 **Backend & Infrastructure:** Django, Linux, Docker
